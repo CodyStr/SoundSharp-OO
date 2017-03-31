@@ -1,0 +1,5 @@
+D:\Dropbox\Projecten Rijnijssel\Project 4 (SoundSharp OO)\De C#\AudioDevices\AudioDevices\bin\Debug\AudioDevices.dll
+D:\Dropbox\Projecten Rijnijssel\Project 4 (SoundSharp OO)\De C#\AudioDevices\AudioDevices\bin\Debug\AudioDevices.pdb
+D:\Dropbox\Projecten Rijnijssel\Project 4 (SoundSharp OO)\De C#\AudioDevices\AudioDevices\obj\Debug\AudioDevices.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projecten Rijnijssel\Project 4 (SoundSharp OO)\De C#\AudioDevices\AudioDevices\obj\Debug\AudioDevices.dll
+D:\Dropbox\Projecten Rijnijssel\Project 4 (SoundSharp OO)\De C#\AudioDevices\AudioDevices\obj\Debug\AudioDevices.pdb

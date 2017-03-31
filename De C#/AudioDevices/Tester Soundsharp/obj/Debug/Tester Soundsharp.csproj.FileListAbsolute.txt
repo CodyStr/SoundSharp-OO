@@ -1,0 +1,8 @@
+D:\Dropbox\Projecten Rijnijssel\Project 4 (SoundSharp OO)\De C#\AudioDevices\Tester Soundsharp\bin\Debug\Tester Soundsharp.exe.config
+D:\Dropbox\Projecten Rijnijssel\Project 4 (SoundSharp OO)\De C#\AudioDevices\Tester Soundsharp\bin\Debug\Tester Soundsharp.exe
+D:\Dropbox\Projecten Rijnijssel\Project 4 (SoundSharp OO)\De C#\AudioDevices\Tester Soundsharp\bin\Debug\Tester Soundsharp.pdb
+D:\Dropbox\Projecten Rijnijssel\Project 4 (SoundSharp OO)\De C#\AudioDevices\Tester Soundsharp\bin\Debug\AudioDevices.dll
+D:\Dropbox\Projecten Rijnijssel\Project 4 (SoundSharp OO)\De C#\AudioDevices\Tester Soundsharp\bin\Debug\AudioDevices.pdb
+D:\Dropbox\Projecten Rijnijssel\Project 4 (SoundSharp OO)\De C#\AudioDevices\Tester Soundsharp\obj\Debug\Tester Soundsharp.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projecten Rijnijssel\Project 4 (SoundSharp OO)\De C#\AudioDevices\Tester Soundsharp\obj\Debug\Tester Soundsharp.exe
+D:\Dropbox\Projecten Rijnijssel\Project 4 (SoundSharp OO)\De C#\AudioDevices\Tester Soundsharp\obj\Debug\Tester Soundsharp.pdb
